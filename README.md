@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maiko-debug
+- 👋 Hi, I’m @Maiko
 - 👀 I’m interested in automation and web development
 - 🌱 I’m currently learning Python and improving my coding skills
 - 💞️ I’m looking to collaborate on open-source projects and innovative applications
